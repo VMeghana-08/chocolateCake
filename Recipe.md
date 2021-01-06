@@ -14,5 +14,5 @@
 14:STEP-melt the dark chocolate and keep it aside.
 15:STEP-now heat the cream and add it to the melted darkChocolate and mix it well without lumbs.
 16:STEP-now cover the cake with cream and chocolate mixture and add some chocolate chips at the top of it.
-
-                     and the cake is ready to eat.
+17:STEP-the cake is ready to eat.
+                    
